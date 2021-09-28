@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osiris0110&label=Profile%20views&color=0e75b6&style=flat" alt="osiris0110" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=osiris0110&label=Profile%20views&color=0e75b6&style=flat" alt="osiris0110" /> </p>-->
  Hi there :wave:
 
 - :seedling: I’m currently learning C
