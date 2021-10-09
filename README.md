@@ -11,4 +11,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
 <h3 align="left"> 🌐 Platforms : </h3>
-<img src="https://media.discordapp.net/attachments/736573376730234911/892206249326825492/Osiris01102.png"> <img src="https://www.codewars.com/users/Osiris0110/badges/large">
+<img src="https://media.discordapp.net/attachments/736573376730234911/896523481011855380/Osiris01103.png"> <img src="https://www.codewars.com/users/Osiris0110/badges/large">
