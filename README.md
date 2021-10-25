@@ -11,4 +11,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
 <h3 align="left"> 🌐 Platforms : </h3>
-<a href="https://tryhackme.com/p/Osiris0110"><img src="https://media.discordapp.net/attachments/736573376730234911/896523481011855380/Osiris01103.png"></a> <img src="https://www.codewars.com/users/Osiris0110/badges/large">
+<a href="https://tryhackme.com/p/Osiris0110"><img src="https://media.discordapp.net/attachments/772922600748875786/902231368912744468/Osiris0110.png"></a> <img src="https://www.codewars.com/users/Osiris0110/badges/large">
