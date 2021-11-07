@@ -12,4 +12,4 @@
 
 <h3 align="left"> 🌐 Platforms : </h3>
 <a align="left" href="https://tryhackme.com/p/Osiris0110"><img src="https://images-ext-2.discordapp.net/external/iMihMwgNXHN_b3D4r2xH1539ISLnS6zDziy4XIq2HkY/%3F1/https/tryhackme-badges.s3.amazonaws.com/Osiris0110.png"></a> <img src="https://www.codewars.com/users/Osiris0110/badges/large">
-<a align="left" href="https://www.root-me.org/Osiris01"><img src="https://media.discordapp.net/attachments/736573376730234911/906738504967524362/unknown.png" width="33%" height="110px"></a>
+<a align="left" href="https://www.root-me.org/Osiris01"><img src="https://media.discordapp.net/attachments/736573376730234911/906738504967524362/unknown.png" width="35%" height="110px"></a>
